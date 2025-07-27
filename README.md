@@ -21,12 +21,6 @@ This project demonstrates the use of **TensorFlow** to classify handwritten digi
 - Keras
 - NumPy
 - Matplotlib
-
-## 🚀 How to Run
-
-```bash
-pip install tensorflow matplotlib
-
 ---
 
 **📌 Don't forget to star ⭐ the repository if you found it helpful!**
